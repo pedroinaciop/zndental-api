@@ -1,1 +1,11 @@
-
+[
+    {
+        "titulo": "Vue.js: Construa aplicações incríveis",
+        "preco": 29.9,
+        "autor": "Caio Incau",
+        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/Vue.js.png",
+        "alt": "Capa do livro de Front-end com Vue.js",
+        "quantidade": 50,
+        "categoria": "front-end"
+    },
+]

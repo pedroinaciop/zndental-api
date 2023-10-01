@@ -1,11 +1,57 @@
 [
     {
-        "titulo": "Vue.js: Construa aplicações incríveis",
-        "preco": 29.9,
-        "autor": "Caio Incau",
-        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/Vue.js.png",
-        "alt": "Capa do livro de Front-end com Vue.js",
-        "quantidade": 50,
-        "categoria": "front-end"
+        "nome_produto": "Resina Charisma Diamond - ",
+        "marca": "Kulzer",
+        "descricao": "Resina nano-híbrida. Seringa com 4g. Escolha a cor.",
+        "preco_anterior": 129.99,
+        "preco": 99.99,
+        "imagem": "",
+        "alt": "Imagem Resina Charisma Diamond - Kulzer",
+        "quantidade": 15,
+        "categoria": "Resina"
+    },    
+    {
+        "nome_produto": "Resina Forma - ",
+        "marca": "Ultradent",
+        "descricao": "Resina Nanohíbrida. Seringa com 4g. Escolha a cor.",
+        "preco_anterior": 148.90,
+        "preco": 129.99,
+        "imagem": "",
+        "alt": "Imagem Forma - Ultradent",
+        "quantidade": 25,
+        "categoria": "Resina"
+    },
+    {
+        "nome_produto": "Resina Estelite Omega - ",
+        "marca": "Tokuyama",
+        "descricao": "Resina Suprananométrica. Seringa com 4g. Escolha a cor.",
+        "preco_anterior": 699.99,
+        "preco": 665.90,
+        "imagem": "",
+        "alt": "Imagem Estelite Omega - Tokuyama",
+        "quantidade": 5,
+        "categoria": "Resina"
+    },
+    {
+        "nome_produto": "Resina Opallis - ",
+        "marca": "FGM",
+        "descricao": "Resina Nanohíbrida. Seringa com 4g. Escolha a cor.",
+        "preco_anterior": 99.99,
+        "preco": 89.30,
+        "imagem": "",
+        "alt": "Imagem Resina Opallis - FGM",
+        "quantidade": 8,
+        "categoria": "Resina"
+    },
+     {
+        "nome_produto": "Resina Opallis Flow - ",
+        "marca": "FGM",
+        "descricao": "Embalagem com 1 seringa com 2g, 1 ponteira de aplicação, Escolha a Cor.",
+        "preco_anterior": 41.62,
+        "preco": 36.99,
+        "imagem": "",
+        "alt": "Imagem Resina Opallis Flow - FGM",
+        "quantidade": 8,
+        "categoria": "Resina Flow"
     },
 ]

@@ -3,9 +3,9 @@
         "nome_produto": "Resina Charisma Diamond - ",
         "marca": "Kulzer",
         "descricao": "Resina nano-híbrida. Seringa com 4g. Escolha a cor.",
-        "preco_anterior": 129.99,
-        "preco": 99.99,
-        "imagem": "https://pedroinaciop.github.io/projeto-site_zndental/imagens/charisma_diamond.png",
+        "preco_anterior": 179.90,
+        "preco": 149.99,
+        "imagem": "https://pedroinaciop.github.io/zndental/images/charisma_diamond.png",
         "alt": "Imagem Resina Charisma Diamond - Kulzer",
         "quantidade": 15,
         "categoria": "Resina"
@@ -15,8 +15,8 @@
         "marca": "Ultradent",
         "descricao": "Resina Nanohíbrida. Seringa com 4g. Escolha a cor.",
         "preco_anterior": 148.90,
-        "preco": 129.99,
-        "imagem": "",
+        "preco": 125.99,
+        "imagem": "https://pedroinaciop.github.io/zndental/images/forma-ultradent.png",
         "alt": "Imagem Forma - Ultradent",
         "quantidade": 25,
         "categoria": "Resina"
@@ -27,31 +27,31 @@
         "descricao": "Resina Suprananométrica. Seringa com 4g. Escolha a cor.",
         "preco_anterior": 699.99,
         "preco": 665.90,
-        "imagem": "",
+        "imagem": "https://pedroinaciop.github.io/zndental/images/resina-omega.png",
         "alt": "Imagem Estelite Omega - Tokuyama",
         "quantidade": 5,
+        "categoria": "Resina"
+    },
+    {
+        "nome_produto": "Resina Palfique Mini Lx5 - ",
+        "marca": "Tokuyama",
+        "descricao": "Embalagem com 1 seringa 1g + Manual de Instruções. Escolha a Cor.",
+        "preco_anterior": 174.90,
+        "preco": 130.90,
+        "imagem": "https://pedroinaciop.github.io/zndental/images/resina-palfique.png",
+        "alt": "Imagem Resina Palfique Mini Lx5 - Tokuyama",
+        "quantidade": 8,
         "categoria": "Resina"
     },
     {
         "nome_produto": "Resina Opallis - ",
         "marca": "FGM",
         "descricao": "Resina Nanohíbrida. Seringa com 4g. Escolha a cor.",
-        "preco_anterior": 99.99,
-        "preco": 89.30,
-        "imagem": "",
+        "preco_anterior": 88.90,
+        "preco": 84.99,
+        "imagem": "https://pedroinaciop.github.io/zndental/images/resina-opallis-fgm.png",
         "alt": "Imagem Resina Opallis - FGM",
         "quantidade": 8,
         "categoria": "Resina"
-    },
-     {
-        "nome_produto": "Resina Opallis Flow - ",
-        "marca": "FGM",
-        "descricao": "Embalagem com 1 seringa com 2g, 1 ponteira de aplicação, Escolha a Cor.",
-        "preco_anterior": 41.62,
-        "preco": 36.99,
-        "imagem": "",
-        "alt": "Imagem Resina Opallis Flow - FGM",
-        "quantidade": 8,
-        "categoria": "Resina Flow"
     }
 ]

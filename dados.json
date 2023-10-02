@@ -86,5 +86,27 @@
         "alt": "Imagem Alginato Tipo II Jeltrate Dustless - Dentsply Sirona",
         "quantidade": 120,
         "categoria": "Alginato"
+    },
+    {
+        "nome_produto": "Alginato Ezact Kromm - ",
+        "marca": "Vigodent",
+        "descricao": "Embalagem com 410g.",
+        "preco_anterior": 33.90,
+        "preco": 26.99,
+        "imagem": "",
+        "alt": "Imagem Alginato Ezact Kromm - Vigodent",
+        "quantidade": 40,
+        "categoria": "Alginato"
+    },
+    {
+        "nome_produto": "Alginato Hydrogum 5 Tipo I - Zhermack",
+        "marca": "Zhermack",
+        "descricao": "Embalagem com 453g.",
+        "preco_anterior": 108.90,
+        "preco": 288.99,
+        "imagem": "",
+        "alt": "Imagem Alginato Ezact Kromm - Vigodent",
+        "quantidade": 40,
+        "categoria": "Alginato"
     }
 ]

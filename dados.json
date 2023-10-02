@@ -51,7 +51,29 @@
         "preco": 84.99,
         "imagem": "https://pedroinaciop.github.io/zndental/images/resina-opallis-fgm.png",
         "alt": "Imagem Resina Opallis - FGM",
-        "quantidade": 8,
+        "quantidade": 9,
         "categoria": "Resina"
+    },
+    {
+        "nome_produto": "Alginato Tipo I Jeltrate Plus -",
+        "marca": "Dentsply Sirona",
+        "descricao": "Embalagem com 454g. Sabor tutti frutti.",
+        "preco_anterior": 68.90,
+        "preco": 64.90,
+        "imagem": "https://pedroinaciop.github.io/zndental/images/resina-opallis-fgm.png",
+        "alt": "Imagem Alginato Tipo I Jeltrate Plus - Dentsply Sirona",
+        "quantidade": 60,
+        "categoria": "Alginato"
+    },
+    {
+        "nome_produto": "Alginato Tipo II Jeltrate Dustless -",
+        "marca": "Dentsply Sirona",
+        "descricao": "Embalagem com 454g. Sabor Menta.",
+        "preco_anterior": 69.90,
+        "preco": 66.90,
+        "imagem": "https://pedroinaciop.github.io/zndental/images/resina-opallis-fgm.png",
+        "alt": "Imagem Alginato Tipo II Jeltrate Dustless - Dentsply Sirona",
+        "quantidade": 80,
+        "categoria": "Alginato"
     }
 ]

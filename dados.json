@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "nome_produto": "Resina Charisma Diamond - ",
         "marca": "Kulzer",
         "descricao": "Resina nano-híbrida. Seringa com 4g. Escolha a cor",
@@ -12,6 +13,7 @@
         "categoria": "Resina"
     },    
     {
+        "id": 2,
         "nome_produto": "Resina Forma - ",
         "marca": "Ultradent",
         "descricao": "Resina Nanohíbrida. Seringa com 4g. Escolha a cor",
@@ -24,6 +26,7 @@
         "categoria": "Resina"
     },
     {
+        "id": 3,
         "nome_produto": "Resina Estelite Omega - ",
         "marca": "Tokuyama",
         "descricao": "Resina Suprananométrica. Seringa com 4g. Escolha a cor",
@@ -36,6 +39,7 @@
         "categoria": "Resina"
     },
     {
+        "id": 4,
         "nome_produto": "Resina Palfique Mini Lx5 - ",
         "marca": "Tokuyama",
         "descricao": "Embalagem com 1 seringa 1g + Manual de Instruções. Escolha a Cor",
@@ -48,6 +52,7 @@
         "categoria": "Resina"
     },
     {
+        "id": 5,
         "nome_produto": "Resina Opallis - ",
         "marca": "FGM",
         "descricao": "Resina Nanohíbrida. Seringa com 4g. Escolha a cor",
@@ -60,6 +65,7 @@
         "categoria": "Resina"
     },
     {
+        "id": 6,
         "nome_produto": "Alginato Tipo I Jeltrate Plus - ",
         "marca": "Dentsply Sirona",
         "descricao": "Embalagem com 454g. Sabor tutti frutti",
@@ -72,6 +78,7 @@
         "categoria": "Alginato"
     },
     {
+        "id": 7,
         "nome_produto": "Alginato Tipo II Jeltrate Dustless - ",
         "marca": "Dentsply Sirona",
         "descricao": "Embalagem com 454g. Sabor Menta",
@@ -84,6 +91,7 @@
         "categoria": "Alginato"
     },
     {
+        "id": 8,
         "nome_produto": "Alginato Avagel - ",
         "marca": "Dentsply Sirona",
         "descricao": "Embalagem com 410g",
@@ -96,6 +104,7 @@
         "categoria": "Alginato"
     },
     {
+        "id": 9,
         "nome_produto": "Alginato Ezact Kromm - ",
         "marca": "Vigodent",
         "descricao": "Embalagem com 410g",
@@ -108,6 +117,7 @@
         "categoria": "Alginato"
     },
     {
+        "id": 10,
         "nome_produto": "Alginato Hydrogum 5 Tipo I - ",
         "marca": "Zhermack",
         "descricao": "Embalagem com 453g",
